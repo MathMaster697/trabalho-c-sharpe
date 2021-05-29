@@ -22,5 +22,5 @@ namespace ExemploMVC
                 {
                     webBuilder.UseStartup<Startup>();
                 });
-    }
+    } 
 }
